@@ -15,9 +15,9 @@ Usage
 At the contructor load the helper by
 <code>$this->load->helper('generate')</code>
 
-$random_string = generate_random_string(32);
+<code>$random_string = generate_random_string(32);</code>
 
 Changelog
 ===============
 
-Initial version 1.0
+Initial version 1.0.0
