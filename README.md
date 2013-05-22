@@ -1,7 +1,7 @@
 generate_helper
 ===============
 
-A helper for generate a random string
+A Codeigniter helper for generate a random string
 
 Installation guide
 ===============
